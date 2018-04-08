@@ -1,0 +1,59 @@
+
+{
+  "basics":{
+    "name":"bhavari",
+    "photo":"bhavari.png",
+    "email":"bhavari518@gmail.com",
+    "mobileno":"9908000741",
+    "address":"svit college"
+  },
+  "career":{
+    "info":"To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization"
+  },
+  "education":[
+    {
+
+        "degree":"B.Tech",
+        "institute":"SVIT,Ananthapur",
+        "data":["2016-20","75%"]
+    },
+    {
+      "degree":"Intermidiate",
+      "institute":"Masters",
+      "data":["2013-15","75%"]
+    },
+    {
+      "degree":"S.S.C",
+      "institute":"Varadhi High School",
+      "data":["2014","86%"]
+    }
+  ],
+  "skills":[
+    {
+      "sname":"Laguages",
+      "sdata":["C","C++","Java"]
+    },
+    {
+
+        "sname":"DataBases",
+        "sdata":["Oricle","MySql","MySqLite","PDO"]
+      },
+      {
+
+          "sname":"DataBases",
+          "sdata":["Oricle","MySql","MySqLite","PDO"]
+        },
+        {
+
+              "sname":"DataBases",
+              "sdata":["Oricle","MySql","MySqLite","PDO"]
+          },
+
+          {
+
+               "sname":"Operating Systems",
+               "sdata":["Windows","Linux","Unix"]
+           }
+  ]
+
+}
